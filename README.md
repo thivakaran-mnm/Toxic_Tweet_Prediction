@@ -1,6 +1,6 @@
 # Toxic Tweets Classification Project
 
-This project aims to classify tweets as toxic or non-toxic using Natural Language Processing (NLP) techniques. The dataset used for this project is obtained from the Kaggle competition [Toxic Tweets Dataset](https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset), and all credits go to the original collectors.
+This project aims to classify tweets as toxic or non-toxic using Natural Language Processing (NLP) techniques.
 
 ## Project Overview
 
