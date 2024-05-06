@@ -29,7 +29,7 @@ The project involves the following steps:
 
 ## Usage
 
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset) and place it in the project directory.
+1. Download the dataset and place it in the project directory.
 2. Run the Jupyter notebook `toxic_tweets_classification.ipynb` to execute the project pipeline.
 3. Follow the instructions in the notebook to preprocess data, build models, and evaluate performance.
 
